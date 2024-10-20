@@ -36,3 +36,11 @@ Stable Retention Rate: The retention rate is high at nearly 90%, indicating good
 **Geographic Workforce Distribution**: The concentration of employees in the U.S., followed by China and Brazil, suggests the company's major operations are centered in these regions. Understanding localized HR strategies and compensation could further improve retention in these regions.
 
 **Ethnic Diversity**: The dashboard reflects a relatively diverse workforce. To enhance this, further initiatives in underrepresented groups might be explored to balance the ethnic distribution even more.
+
+![image](https://github.com/user-attachments/assets/67d78946-0cf7-44d3-9eed-9e37092dd969)
+
+![image](https://github.com/user-attachments/assets/c2a71db0-d52a-4dee-a6af-e99d7049f04c)
+
+
+
+

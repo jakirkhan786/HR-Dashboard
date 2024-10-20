@@ -1,6 +1,6 @@
 # HR-Dashboard
 
-# About this project
+**About this project**
 
 # Summary:
 **Workforce Demographics**:

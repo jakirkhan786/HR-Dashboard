@@ -4,30 +4,28 @@
 
 **Summary**:
 **Workforce Demographics**:
-
 Gender distribution: Fairly balanced with a slight male majority (51.8% male, 48.2% female).
 Workforce age distribution: Largest group aged 40-49, followed by those aged 50-59, and 30-39.
 
 **Country Distribution:**
-
 The workforce is primarily based in the United States, followed by China and Brazil.
-**Ethnicity Distribution:**
 
+**Ethnicity Distribution:**
 Majority ethnic groups include Asian, Caucasian, Latino, and Black employees, with Asians making up the largest proportion.
 
 **Salary Distribution:**
-
 Average annual salary: $114.19K.
 Median annual salary: $96.57K.
 Salary ranges vary significantly across business units, with Strategy and Corporate units tending to have higher salary bands.
-**Retention and Turnover:**
 
+**Retention and Turnover:**
 Retention rate: 89.79%.
 Turnover rate: 10.21%.
 There’s a strong correlation between higher salaries and retention rates, with units such as Strategy and Corporate having higher retention linked to better compensation.
-**Retention Over Time:**
 
+**Retention Over Time:**
 Retention rate remains relatively stable over the years, with minor fluctuations, particularly in 2021 and 2022.
+
 # Insights:
 Stable Retention Rate: The retention rate is high at nearly 90%, indicating good employee satisfaction overall. The relatively low turnover suggests that the majority of employees remain with the company for extended periods.
 

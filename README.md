@@ -1,8 +1,8 @@
 # HR-Dashboard
 
-**About this project**
+# About this project
 
-# Summary:
+**Summary**:
 **Workforce Demographics**:
 
 Gender distribution: Fairly balanced with a slight male majority (51.8% male, 48.2% female).
